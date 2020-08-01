@@ -1,0 +1,4 @@
+ID;ADDRESS,CITY,STATE,NAME
+1; 3266;   St; San Francisco; USA; Angela Shop
+2; 735;    St; San Francisco; USA; Bready Shop
+3; 332;    St; San Francisco; USA; Rocko Shop
